@@ -11,6 +11,6 @@
 - To see different answers from the server file run these lines
 
 ```python
-response = requests.get('http://127.0.0.1:5000/predict',timeout=3)
+response = requests.get('http://127.0.0.1:5000/predict')
 response.text
 ```
