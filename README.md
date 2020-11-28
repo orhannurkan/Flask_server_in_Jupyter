@@ -1,6 +1,6 @@
 # Flask API in Jupyter Notebook runs as a Service
 
-- Download this two files
+- Download this two files (client.ipynb and server.ipynb)
 
 - install Flask : pip install Flask
 
