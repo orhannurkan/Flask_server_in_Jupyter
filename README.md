@@ -2,7 +2,7 @@
 
 - Download this two files (client.ipynb and server.ipynb)
 
-- install Flask : pip install Flask
+- In the terminal run this code : pip install Flask
 
 - First open server.ipynb file and run all
 
