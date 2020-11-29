@@ -20,7 +20,12 @@ response = requests.get('http://127.0.0.1:5000/predict')
 response.text
 ```
 
+
+
 If you want to run Jupyter notebook file in terminal, you can.
+
+(just you should install ipython library : pip install ipython)
+
 - in terminal run this code : ipython
 - then to run your Jupyter notebook file use this code : %run server.ipynb
 - it runs like a python file(.py) and waits for requests.
